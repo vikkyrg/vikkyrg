@@ -108,20 +108,6 @@ https://github.com/vikkyrg/collabboard-saas
 
 ---
 
-## ⚡ Real-Time Technologies
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=socketio" />
-
-</p>
-
-- 🎨 Fabric.js
-- 📹 Agora RTC SDK
-- 🤖 Google Gemini API
-
----
-
 ## 🛠️ Tools & Platforms
 
 <p align="left">
