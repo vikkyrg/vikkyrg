@@ -11,7 +11,7 @@
 <br>
 
 <a href="https://vikkyrg.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-2563EB?style=for-the-badge">
 </a>
 
 <a href="https://www.linkedin.com/in/vignesh-r-a634a2293/" target="_blank">
@@ -24,7 +24,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=vikkyrg&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=vikkyrg&label=Profile%20Views&color=2563EB&style=flat" />
 
 </div>
 
@@ -32,13 +32,10 @@
 
 # 💫 About Me
 
-🎓 MCA Graduate
-
-💻 Full Stack MERN Developer focused on building scalable web applications using the MERN Stack.
-
-🚀 Passionate about Real-Time Applications, Socket.IO, WebRTC, AI Integration, and Cloud Deployment.
-
-🌱 Currently learning System Design, Docker, CI/CD, and scalable software architecture.
+- 🎓 MCA Graduate
+- 💻 Full Stack MERN Developer passionate about building scalable and production-ready web applications.
+- 🚀 Interested in Real-Time Applications, Socket.IO, WebRTC, AI Integration, and Cloud Deployment.
+- 🌱 Currently learning System Design, Docker, CI/CD, and scalable software architecture.
 
 ---
 
@@ -59,7 +56,7 @@
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
 </p>
 
 ---
@@ -68,7 +65,7 @@
 
 ## 📋 CollabBoard SaaS
 
-A full-stack real-time collaboration platform featuring collaborative whiteboard, live chat, video calling, screen sharing, AI assistant, and secure room-based collaboration.
+A full-stack real-time collaboration platform with collaborative whiteboard, live chat, video calling, screen sharing, AI assistant, and secure room-based collaboration.
 
 **Tech Stack**
 
@@ -84,7 +81,7 @@ https://github.com/vikkyrg/collabboard-saas
 
 ## 📄 Resume Generator
 
-A full-stack resume builder with live preview, PDF export, and responsive user experience.
+A full-stack resume builder with live preview, PDF export, and responsive design.
 
 **Tech Stack**
 
@@ -100,7 +97,7 @@ https://github.com/vikkyrg/resume-generator
 
 ## 🌐 Portfolio Website
 
-A modern responsive portfolio showcasing my projects, skills, and development journey.
+A modern portfolio showcasing my projects, skills, and development journey.
 
 **Tech Stack**
 
@@ -118,13 +115,13 @@ https://github.com/vikkyrg/my-portfolio
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vikkyrg&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vikkyrg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vikkyrg&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=vikkyrg&theme=github-dark&hide_border=true" />
 
-<br>
+<br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkyrg&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkyrg&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -142,7 +139,7 @@ https://github.com/vikkyrg/my-portfolio
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for Visiting!
 
 If you like my work, feel free to ⭐ my repositories or connect with me on LinkedIn.
 
