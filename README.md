@@ -111,22 +111,6 @@ https://github.com/vikkyrg/my-portfolio
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vikkyrg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=vikkyrg&theme=github-dark&hide_border=true" />
-
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkyrg&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
 # 📚 Currently Learning
 
 - 🏗️ System Design & Software Architecture
