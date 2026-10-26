@@ -50,13 +50,13 @@
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render,stitch,canva" />
 </p>
 
 ---
